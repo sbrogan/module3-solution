@@ -1,0 +1,28 @@
+.navbar-brand h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+}
+.nav a {
+	text-align: center;
+}
+
+.navbar-default .navbar-nav > li {
+		border-style: solid;
+		border-width:  0px 1px 1px 1px;
+		border-color: #e7e7e7;
+}
+
+#nav-list {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.section {
+	height: 1000px;
+	background-color: #000000;
+}
+
+#content-text {
+	background-color: #BFBABD;
+}
